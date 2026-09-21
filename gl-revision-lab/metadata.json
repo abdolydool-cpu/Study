@@ -1,7 +1,0 @@
-{
-  "name": "GL Revision Lab",
-  "description": "Year 7 English, Maths, Comprehension, and British voice spelling revision platform with real-time multiplayer challenge arena, procedural questions, and 11 practice modes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
